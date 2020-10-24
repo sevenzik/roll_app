@@ -1,4 +1,4 @@
-1)https://sevenzik.github.io/roll_app/
+1) https://sevenzik.github.io/roll_app/
 
 
 2) Пользователи могут захотеть иметь в приложении кубики d4, d8, d10, d12, d20.
